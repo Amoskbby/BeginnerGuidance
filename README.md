@@ -1,0 +1,2 @@
+# BeginnerGuidance
+shader实现新手引导的遮罩与高亮功能，以及渗透点击事件
